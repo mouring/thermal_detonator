@@ -19,5 +19,6 @@ TODO:
 - Solder together
 - Rework lower model to support USB charging port
 - Consider seperating center ring out from model
+- Determine how to buld audio as a tone generator
 - Paint
 - Assemble
